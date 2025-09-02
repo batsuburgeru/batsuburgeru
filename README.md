@@ -19,9 +19,11 @@ MySQL • phpMyAdmin • Git/GitHub • VS Code • Postman • Notion • Figma
 🌱 What I’m Learning
 
 Cloud computing & deployment (AWS, Docker, CI/CD)
+
 Advanced data science techniques & MLOps
 
 📫 Let’s Connect
 
 📧 Email: bato.alex10@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/bato-alexander
