@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @batsuburgeru
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning various programming language such as Python, C++, Javascript. Moreover, I am also practicing HTML and CSS for Web Development.
-- 📫 Y'all can reach me via Twitter https://twitter.com/batsuburgeru, Facebook via https://www.facebook.com/batsburgeroverhere
-- and Email via batoalexander10@gmail.com
+👋 Hi, I’m Alexander Bato
+🎓 Computer Engineering Graduate | 💻 Aspiring Software Engineer & Data Scientist | 🚀 Tech-Driven Problem Solver
 
-<!---
-batsuburgeru/batsuburgeru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building scalable web applications, backend systems, and machine learning solutions that solve real-world problems. 
+My experience ranges from developing secure APIs to deploying AI-powered applications with TensorFlow and YOLO.
+
+🔧 Tech Stack
+Languages & Frameworks:
+Python • JavaScript • C++ • Node.js • Express.js • Flask • React.js • Vue.js • HTML5 • CSS3
+
+Data Science & ML:
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow • Keras • YOLO • OpenCV
+
+Databases & Tools:
+MySQL • phpMyAdmin • Git/GitHub • VS Code • Postman • Notion • Figma
+
+🌱 What I’m Learning
+Cloud computing & deployment (AWS, Docker, CI/CD)
+Advanced data science techniques & MLOps
+
+📫 Let’s Connect
+📧 Email: bato.alex10@gmail.com
+🔗 LinkedIn: linkedin.com/in/bato-alexander
